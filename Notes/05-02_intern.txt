@@ -1,0 +1,13 @@
+difference between sprint and product backlog- product is specific to a whole project while sprint is just for the sprint project
+scrum masters- duration of sprint, number of sprints, standup call and leads up to retrospitive
+user story - sub task assigned to one person. we have story points, due date etc. 
+story point - are a unit of measuremnt , used to measure the effort of the task. for example velocity tracking. no of hours a particular task will take
+
+how is a product owner diff from scrum master? responsible for when it comes to the ownership of the product. They should be awaew of what's going right or wrong. project lead of head of the project is the product owner
+
+user story - 32
+then it will take 4 days cause 4 * 8 hours per day =32 user stories
+
+sprint retrospective - gathering team members to discuss regarding what are the updates, it happens at the end of the sprint or towards the second or third day of the sprint and have sprint activity planning for the next sprint
+
+

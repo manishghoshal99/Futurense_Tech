@@ -1,0 +1,27 @@
+mom:
+learn about scrum and agile
+revised on github cli
+bitbucket
+git is a tool installed in the system, it can work with remote repository. it is a version control system. it is a source management tool. We can do versioning of the code file. vcs
+it needs a traget , which should be a repository like github or bitbucket.
+
+github can be private or public
+
+git clone- we can downlaod a copy of a file from the repository in the local system
+
+to copy a file from local to remote repository
+
+get add "file name"
+git commit -m "added a new file"
+git push
+
+
+git pull - update your local git repository , to sync the remote and local git repository 
+
+git branch - master branch
+we can create many branches
+we create branches to create a copy of the main branch, a testing branch for the people working on the project. to make changes or test so it won't affect the main branch as it is loaclised.
+
+
+git tag my_tag- it helps you identify diff projects and repositories. some projects use react and angiuler. so we tag the angular projects with angular  and raect with react tags. so when we need it we can seacg the project using the tag. it is used to annotate a file or a repository.
+

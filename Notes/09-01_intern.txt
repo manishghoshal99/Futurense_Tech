@@ -1,0 +1,36 @@
+pwd - present windows directory
+ls - command to open or navigate to the directory
+ls -a - to show hidden files in the directory
+
+every -a/b/c or whatever something in a commnad is known as a flag.
+prefix the hidden files with a . 
+for examples .landscape
+
+
+. - curent directory
+.. -previous directory that you came from
+for example /home/akash
+
+cd - to change directory
+cd .. -takes you to home
+
+cd . - you are just changing to the cureent directory. so there is no chnage
+
+mkdir- to create a new folder
+
+eg: mkdir new_dir_2
+
+command to go onto new directory cd new_dir_2
+
+rmdir dir_2 - command to remove a file but not a directory
+
+to force delete a directory -> rm -r dir 2
+-r --> recursive
+
+command to rename a directory --> mv dir4 new_subdir
+mv is to move but it can be used to rename a directory as well
+
+
+
+
+

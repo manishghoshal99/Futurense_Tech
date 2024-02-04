@@ -1,0 +1,25 @@
+Discussed about Playbook
+python is an interpreted language. It gets interpreted line by line.
+
+write a program to calculate the area of a triangle given its 3 sides, s=a+b+c/2
+area=s(s-a)*(s-b)*(s-c)
+import math
+
+# Function to calculate the area of a triangle using Heron's formula
+def triangle_area(a, b, c):
+    # Calculate semi-perimeter
+    s = (a + b + c) / 2
+    
+    # Calculate the area using Heron's formula
+    area = math.sqrt(s * (s - a) * (s - b) * (s - c))
+    
+    return area
+
+# Example usage
+side_a = float(input("Enter the length of side a: "))
+side_b = float(input("Enter the length of side b: "))
+side_c = float(input("Enter the length of side c: "))
+
+area = triangle_area(side_a, side_b, side_c)
+print(f"The area of the triangle is: {area}")
+
